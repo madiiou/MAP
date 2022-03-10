@@ -54,7 +54,7 @@ Ceci est la première version du site de dashboarding.
 
 ## Auteurs
 
-Lisez la liste des [Bah Elhadj,Diop Salka, Diarassouba Ibrahima, Kouassi Gerrard, Konaté Souleymane](https://github.com/your/project/contributors) !
+Lisez la liste des [Bah Elhadj,Diop Salka, Diarrassouba Ibrahima, Kouassi Gerard, Konaté Souleymane](https://github.com/your/project/contributors) 
 
 
 
